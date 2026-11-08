@@ -1,5 +1,9 @@
 <p align="center">
-  <img src="assets/hero.png" width="780" alt="Ziland terbuka di bawah notch MacBook, menampilkan lagu yang sedang diputar beserta liriknya">
+  <img src="https://zikrimuhammad09.github.io/ziland-releases/assets/icon.png" width="112" alt="Ikon Ziland">
+</p>
+
+<p align="center">
+  <img src="https://zikrimuhammad09.github.io/ziland-releases/assets/hero.png" width="780" alt="Ziland terbuka di bawah notch MacBook, menampilkan lagu yang sedang diputar beserta liriknya">
 </p>
 
 <h1 align="center">Ziland</h1>
@@ -22,7 +26,7 @@ Tidak ada jendela baru, ikon Dock, atau notifikasi yang menumpuk di pojok layar.
 ## Hadir sebentar, lalu menghilang
 
 <p align="center">
-  <img src="assets/states.png" width="780" alt="Empat keadaan pulau: sampul lagu dan equalizer, baris lirik, HUD volume, dan kartu waktu sholat">
+  <img src="https://zikrimuhammad09.github.io/ziland-releases/assets/states.png" width="780" alt="Empat keadaan pulau: sampul lagu dan equalizer, baris lirik, HUD volume, dan kartu waktu sholat">
 </p>
 
 Saat lagu diputar, sampulnya muncul di sisi kiri notch dan equalizer di sisi kanan. Lirik bisa ikut berjalan baris demi baris. Sepuluh menit sebelum waktu sholat, hitung mundurnya mengambil tempat itu. Volume, AirPods yang baru tersambung, charger yang dicabut, hujan yang akan turun dalam satu jam: semuanya lewat sejenak, lalu pulau kembali tenang.
@@ -33,24 +37,24 @@ Arahkan kursor ke notch dan pulau terbuka. Geser dua jari untuk berpindah menu. 
 
 <table>
   <tr>
-    <td width="50%"><img src="assets/today.png" alt="Menu Hari Ini"><br><b>Hari Ini</b><br>Sholat berikutnya dengan hitung mundurnya, jadwal sehari penuh, dan cuaca empat jam ke depan.</td>
-    <td width="50%"><img src="assets/calendar.png" alt="Menu Kalender"><br><b>Kalender</b><br>Libur nasional dan cuti bersama, weton, tanggal Hijriah, serta acara dari app Kalender lengkap dengan tombol Gabung rapat.</td>
+    <td width="50%"><img src="https://zikrimuhammad09.github.io/ziland-releases/assets/today.png" alt="Menu Hari Ini"><br><b>Hari Ini</b><br>Sholat berikutnya dengan hitung mundurnya, jadwal sehari penuh, dan cuaca empat jam ke depan.</td>
+    <td width="50%"><img src="https://zikrimuhammad09.github.io/ziland-releases/assets/calendar.png" alt="Menu Kalender"><br><b>Kalender</b><br>Libur nasional dan cuti bersama, weton, tanggal Hijriah, serta acara dari app Kalender lengkap dengan tombol Gabung rapat.</td>
   </tr>
   <tr>
-    <td><img src="assets/focus.png" alt="Menu Fokus"><br><b>Fokus</b><br>Pomodoro dengan target harian. Bisa menyalakan Jangan Ganggu selama sesi berjalan.</td>
-    <td><img src="assets/timer.png" alt="Timer hitung mundur"><br><b>Timer</b><br>Hitung mundur sederhana untuk teh, jeda, atau presentasi. Tambah satu menit kapan saja.</td>
+    <td><img src="https://zikrimuhammad09.github.io/ziland-releases/assets/focus.png" alt="Menu Fokus"><br><b>Fokus</b><br>Pomodoro dengan target harian. Bisa menyalakan Jangan Ganggu selama sesi berjalan.</td>
+    <td><img src="https://zikrimuhammad09.github.io/ziland-releases/assets/timer.png" alt="Timer hitung mundur"><br><b>Timer</b><br>Hitung mundur sederhana untuk teh, jeda, atau presentasi. Tambah satu menit kapan saja.</td>
   </tr>
   <tr>
-    <td><img src="assets/water.png" alt="Menu Minum"><br><b>Minum</b><br>Target harian, grafik tujuh hari, dan pengingat yang hanya muncul di jam aktif.</td>
-    <td><img src="assets/notes.png" alt="Menu Catatan"><br><b>Catatan</b><br>Tugas singkat yang diketik langsung di pulau. Klik sekali, ketik, tekan Return.</td>
+    <td><img src="https://zikrimuhammad09.github.io/ziland-releases/assets/water.png" alt="Menu Minum"><br><b>Minum</b><br>Target harian, grafik tujuh hari, dan pengingat yang hanya muncul di jam aktif.</td>
+    <td><img src="https://zikrimuhammad09.github.io/ziland-releases/assets/notes.png" alt="Menu Catatan"><br><b>Catatan</b><br>Tugas singkat yang diketik langsung di pulau. Klik sekali, ketik, tekan Return.</td>
   </tr>
   <tr>
-    <td><img src="assets/shelf.png" alt="Menu Rak"><br><b>Rak</b><br>Seret berkas ke notch untuk disimpan sementara, lalu seret keluar ke app lain saat dibutuhkan.</td>
-    <td><img src="assets/clipboard.png" alt="Menu Clipboard"><br><b>Clipboard</b><br>Teks yang baru disalin, dengan ikon tautan, kode, atau angka. Isi dari password manager tidak pernah disimpan.</td>
+    <td><img src="https://zikrimuhammad09.github.io/ziland-releases/assets/shelf.png" alt="Menu Rak"><br><b>Rak</b><br>Seret berkas ke notch untuk disimpan sementara, lalu seret keluar ke app lain saat dibutuhkan.</td>
+    <td><img src="https://zikrimuhammad09.github.io/ziland-releases/assets/clipboard.png" alt="Menu Clipboard"><br><b>Clipboard</b><br>Teks yang baru disalin, dengan ikon tautan, kode, atau angka. Isi dari password manager tidak pernah disimpan.</td>
   </tr>
   <tr>
-    <td><img src="assets/calculator.png" alt="Menu Kalkulator"><br><b>Kalkulator</b><br>Urutan operasi yang benar, format angka Indonesia, dan bisa diketik dengan keyboard.</td>
-    <td><img src="assets/claude.png" alt="Menu Claude"><br><b>Claude</b><br>Status sesi Claude Code, dan jawab permintaan izinnya tanpa membuka Terminal.</td>
+    <td><img src="https://zikrimuhammad09.github.io/ziland-releases/assets/calculator.png" alt="Menu Kalkulator"><br><b>Kalkulator</b><br>Urutan operasi yang benar, format angka Indonesia, dan bisa diketik dengan keyboard.</td>
+    <td><img src="https://zikrimuhammad09.github.io/ziland-releases/assets/claude.png" alt="Menu Claude"><br><b>Claude</b><br>Status sesi Claude Code, dan jawab permintaan izinnya tanpa membuka Terminal.</td>
   </tr>
 </table>
 
@@ -59,7 +63,7 @@ Ada juga **Musik** untuk semua pemutar (termasuk YouTube Music di browser) dan *
 ## Dibuat untuk ritme hari di Indonesia
 
 <p align="center">
-  <img src="assets/ramadan.png" width="660" alt="Menu Hari Ini dalam mode Ramadan dengan kartu puasa">
+  <img src="https://zikrimuhammad09.github.io/ziland-releases/assets/ramadan.png" width="660" alt="Menu Hari Ini dalam mode Ramadan dengan kartu puasa">
 </p>
 
 Jadwal sholat dihitung langsung di Mac dengan kriteria **Kemenag RI**, termasuk ihtiyatnya. Hasilnya dicocokkan dengan jadwal resmi Kemenag untuk Jakarta dan selisihnya paling banyak satu menit. JAKIM, MUIS, Umm al-Qura, dan metode lain juga tersedia.
@@ -71,13 +75,13 @@ Adzan diputar dari berkas pilihan Anda sendiri dan otomatis diam saat mikrofon s
 ## Tampilan yang bisa Anda miliki
 
 <p align="center">
-  <img src="assets/themes.png" width="780" alt="Empat tema Ziland: Lumen, Aurora, Onyx, dan Vivid">
+  <img src="https://zikrimuhammad09.github.io/ziland-releases/assets/themes.png" width="780" alt="Empat tema Ziland: Lumen, Aurora, Onyx, dan Vivid">
 </p>
 
 Empat tema dengan karakter berbeda. **Lumen** monokrom dengan cahaya lembut dari sampul lagu. **Aurora** lebih berani dengan cahaya warna aksen. **Onyx** hitam pekat untuk yang ingin pulaunya paling tenang. **Vivid** memindahkan menu ke atas dengan tombol berwarna penuh.
 
 <p align="center">
-  <img src="assets/tones.png" width="780" alt="Empat nuansa latar pulau: Hutan, Lautan, Senja, dan Grafit">
+  <img src="https://zikrimuhammad09.github.io/ziland-releases/assets/tones.png" width="780" alt="Empat nuansa latar pulau: Hutan, Lautan, Senja, dan Grafit">
 </p>
 
 Lalu pilih **nuansa** untuk latar pulau (Malam, Hutan, Lautan, Senja, atau Grafit) dan satu dari tiga belas **warna aksen**, dari Jingga sampai Toska. Bagian di bawah kamera selalu tetap hitam, jadi pulau tetap menyatu dengan notch apa pun pilihannya.
