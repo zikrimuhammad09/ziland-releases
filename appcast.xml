@@ -6,6 +6,40 @@
     <description>Pembaruan Ziland</description>
     <language>id</language>
     <item>
+      <title>Ziland 1.1.0</title>
+      <pubDate>Sun, 08 Nov 2026 21:55:34 GMT</pubDate>
+      <sparkle:version>43</sparkle:version>
+      <sparkle:shortVersionString>1.1.0</sparkle:shortVersionString>
+      <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
+      <description><![CDATA[
+<p>Pembaruan terbesar sejak 1.0: pulau kini terasa hidup, bukan sekadar membuka dan menutup.</p>
+<h3>Maskot: pulau yang bangun</h3>
+<p>Saat Mac dipakai, dua mata muncul di kiri dan kanan kamera, sehingga kamera menjadi bagian dari wajahnya. Matanya berkedip, mengikuti kursor, sesekali melirik, dan menoleh ke kartu notifikasi. Saat lagu diputar, matanya tersenyum dan mengangguk mengikuti irama. Setelah dua menit tanpa aktivitas, pulau tertidur dan kembali seukuran notch. Bisa dimatikan di Pengaturan › Tampilan › Maskot.</p>
+<h3>Gerak yang mengalir</h3>
+<ul>
+<li>Sampul lagu berpindah mulus dari samping notch ke pemutar saat pulau dibuka.</li>
+<li>Isi pulau muncul bertahap, dan kartu notifikasi turun dari notch dengan sedikit pantulan.</li>
+<li>Geser dua jari kini menarik menu mengikuti jari, menahan di menu pertama dan terakhir, dan menu baru meluncur dari arah geseran.</li>
+<li>Pulau sedikit menggembung saat kursor mendekat.</li>
+<li>Usap dua jari ke atas pada kartu notifikasi untuk menutupnya.</li>
+<li>Mendukung Kurangi gerakan di Aksesibilitas macOS.</li>
+</ul>
+<h3>Pulau membelah</h3>
+<p>Saat musik dan timer berjalan bersamaan, atau waktu sholat sudah dekat, aktivitas kedua tampil di gelembung kecil di samping pulau.</p>
+<h3>Lebih cerdas</h3>
+<ul>
+<li>Pulau terbuka langsung ke menu yang relevan: Musik saat lagu diputar, Hari Ini saat waktu sholat dekat, Kalender saat rapat akan dimulai.</li>
+<li>Dock lebih ringkas: lima menu teratas, sisanya lewat tombol Menu lainnya.</li>
+<li>AirDrop dari Rak: kirim satu berkas atau semuanya.</li>
+</ul>
+<h3>Perubahan</h3>
+<p>Geser dua jari tidak lagi berputar dari menu terakhir ke menu pertama.</p>
+<h3>Memasang</h3>
+<p>Pengguna 1.0.1 menerima pembaruan ini secara otomatis. Untuk pemasangan baru, unduh <b>Ziland-1.1.0.dmg</b>, buka, lalu seret Ziland ke Applications. Saat pertama dibuka, klik kanan › <b>Buka</b>. Butuh macOS 14 atau lebih baru di Mac Apple Silicon.</p>
+      ]]></description>
+      <enclosure url="https://github.com/zikrimuhammad09/ziland-releases/releases/download/v1.1.0/Ziland-1.1.0.zip" sparkle:edSignature="Yci+c3W+PN7g5GOVptE4slvQYBoVuWUumj3feAf0BAcmpmI8PM/W+oF7IWsLtnVOBRiIbwV0g2M5K5lNZAEODA==" length="3620865" type="application/octet-stream"/>
+    </item>
+    <item>
       <title>Ziland 1.0.1</title>
       <pubDate>Sun, 08 Nov 2026 21:21:49 GMT</pubDate>
       <sparkle:version>38</sparkle:version>
