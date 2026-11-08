@@ -2,7 +2,7 @@
 <rss version="2.0" xmlns:sparkle="http://www.andymatuschak.org/xml-namespaces/sparkle" xmlns:dc="http://purl.org/dc/elements/1.1/">
   <channel>
     <title>Ziland</title>
-    <link>https://raw.githubusercontent.com/zikrimuhammad09/ziland-releases/main/appcast.xml</link>
+    <link>https://zikrimuhammad09.github.io/ziland-releases/appcast.xml</link>
     <description>Pembaruan Ziland</description>
     <language>id</language>
     <item>
