@@ -7,8 +7,8 @@
     <language>id</language>
     <item>
       <title>Ziland 1.0.1</title>
-      <pubDate>Sun, 08 Nov 2026 21:11:04 GMT</pubDate>
-      <sparkle:version>37</sparkle:version>
+      <pubDate>Sun, 08 Nov 2026 21:18:17 GMT</pubDate>
+      <sparkle:version>38</sparkle:version>
       <sparkle:shortVersionString>1.0.1</sparkle:shortVersionString>
       <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
       <description><![CDATA[
@@ -26,11 +26,12 @@
 </ul>
 <h3>Diperbaiki</h3>
 <ul>
+<li>Feed pembaruan otomatis dipindah ke GitHub Pages (<code>zikrimuhammad09.github.io</code>). Alamat sebelumnya, <code>raw.githubusercontent.com</code>, diblokir DNS sebagian penyedia internet di Indonesia sehingga pembaruan tidak pernah sampai. Versi 1.0.0 masih memakai alamat lama; di jaringan yang memblokirnya, pasang 1.0.1 secara manual sekali.</li>
 <li>Adzan tidak berhenti saat kursor diarahkan ke notch, padahal kartunya meminta begitu. Kini membuka pulau dengan kursor langsung menghentikan adzan.</li>
 <li>Sidebar Pengaturan terdorong ke tepi kiri jendela di halaman Tampilan, karena pratinjau pulau lebih lebar dari ruang yang tersedia. Pratinjau kini menyesuaikan lebar.</li>
 </ul>
       ]]></description>
-      <enclosure url="https://github.com/zikrimuhammad09/ziland-releases/releases/download/v1.0.1/Ziland-1.0.1.zip" sparkle:edSignature="vEvSd7gfrSx5MKrMDNULFVFuJ2MTffnyptma1LbV9uADHvZGNIAYRzG+D6PcgQIqvxWIPKcAqnI1OzYq/kSSAA==" length="3556354" type="application/octet-stream"/>
+      <enclosure url="https://github.com/zikrimuhammad09/ziland-releases/releases/download/v1.0.1/Ziland-1.0.1.zip" sparkle:edSignature="Ed4BHhmh/I06tlBqRpR5znlcaNIFUo4GKMx8IiPGaMMjIRoRiiTQtTploURAzleXW0OxYojKIhKGDICW8js0DA==" length="3556337" type="application/octet-stream"/>
     </item>
     <item>
       <title>Ziland 1.0.0</title>
