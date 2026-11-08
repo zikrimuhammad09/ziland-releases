@@ -6,6 +6,44 @@
     <description>Pembaruan Ziland</description>
     <language>id</language>
     <item>
+      <title>Ziland 1.3.0</title>
+      <pubDate>Sun, 08 Nov 2026 23:56:53 GMT</pubDate>
+      <sparkle:version>50</sparkle:version>
+      <sparkle:shortVersionString>1.3.0</sparkle:shortVersionString>
+      <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
+      <description><![CDATA[
+<p>Pulau yang menyambungkan: Mac Anda ke HP mana pun, ke rapat, ke unduhan, dan ke ritme hari di Indonesia.</p>
+<h3>Ke HP, untuk Android maupun iPhone</h3>
+<p>Sebagian besar HP di Indonesia memakai Android, dan AirDrop tidak sampai ke sana. Kini cukup seret berkas ke notch dan lepas di <b>Ke HP</b>: pulau menampilkan QR yang bisa dipindai kamera HP apa pun, tanpa aplikasi tambahan, kabel, atau internet. HP dan Mac cukup berada di Wi-Fi yang sama. Tautannya acak, hanya bisa diunduh sekali, dan kedaluwarsa dalam 5 menit.</p>
+<ul>
+<li><b>Pintu:</b> saat berkas diseret ke notch, pulau membuka tiga sasaran, yaitu Rak, AirDrop, dan Ke HP.</li>
+<li><b>QR dari Clipboard:</b> tautan atau teks yang disalin bisa ditampilkan sebagai QR untuk dipindai HP.</li>
+</ul>
+<h3>Rapat dan pekerjaan</h3>
+<ul>
+<li><b>Mode rapat otomatis:</b> saat kamera dan mikrofon menyala bersamaan, pulau menampilkan lama rapat dan menahan notifikasi yang bisa menunggu. Setelah rapat, membuka pulau langsung ke Catatan dengan judul rapat sudah terisi.</li>
+<li><b>Unduhan selesai:</b> kartu muncul saat unduhan selesai, dan berkasnya masuk Rak, siap dibagikan. Aktifkan di Pengaturan › Integrasi.</li>
+<li><b>Maskot menemani Claude Code:</b> matanya melirik ke atas saat Claude berpikir, menatap Anda saat Claude minta izin, dan tersenyum saat Claude selesai.</li>
+</ul>
+<h3>Ritme hari di Indonesia</h3>
+<ul>
+<li><b>Hari Penting:</b> hitung mundur gajian (lengkap dengan tanggal tua dan tanggal muda), ulang tahun, tenggat, dan Idulfitri. Yang terdekat tampil di kepala pulau dan di Kalender.</li>
+<li><b>Dzikir setelah sholat</b> (opsional): penghitung 33-33-34 di bawah notch; klik pulau untuk menghitung.</li>
+<li><b>Pengingat sholat Jumat</b> (opsional), 30 menit sebelum Dzuhur.</li>
+</ul>
+<h3>Lebih nyaman</h3>
+<ul>
+<li><b>Usap pulau tertutup:</b> saat lagu diputar, usap dua jari ke atas atau ke bawah untuk volume, ke samping untuk ganti lagu.</li>
+<li><b>Suara fokus:</b> hujan atau derau lembut selama sesi fokus.</li>
+<li><b>Teks lengkap di Clipboard:</b> tombol Lihat membuka seluruh teks yang disalin.</li>
+<li><b>Pintasan keyboard bisa dipilih:</b> ⌃⌥ Space (bawaan), ⌥ Space, ⌃⌥ Z, atau ⌥ `.</li>
+</ul>
+<h3>Memasang</h3>
+<p>Pengguna 1.2.0 menerima pembaruan ini secara otomatis. Untuk pemasangan baru, unduh <b>Ziland-1.3.0.dmg</b>, buka, lalu seret Ziland ke Applications. Saat pertama dibuka, klik kanan › <b>Buka</b>. Butuh macOS 14 atau lebih baru di Mac Apple Silicon.</p>
+      ]]></description>
+      <enclosure url="https://github.com/zikrimuhammad09/ziland-releases/releases/download/v1.3.0/Ziland-1.3.0.zip" sparkle:edSignature="bgYRBRXWH6fhkbXdqK/UdafXMYr45ziMY6PIcbKkOT6s2M1lF7NdHl+H+Ebg4SVkoFWN2WVFHcSX11JzIsAoAA==" length="3922358" type="application/octet-stream"/>
+    </item>
+    <item>
       <title>Ziland 1.2.0</title>
       <pubDate>Sun, 08 Nov 2026 23:08:35 GMT</pubDate>
       <sparkle:version>45</sparkle:version>

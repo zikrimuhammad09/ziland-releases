@@ -45,6 +45,20 @@ Ia juga berperasaan. Matanya sayu saat baterai lemah, berbinar saat charger dipa
 
 Tekan dan tahan pulau setengah detik. Empat aksi muncul tepat di bawah notch: jeda musik, timer lima menit, senyap, atau mulai fokus. Pulau penuh tidak perlu dibuka.
 
+## Ke HP mana pun, lewat QR
+
+<p align="center">
+  <img src="https://zikrimuhammad09.github.io/ziland-releases/assets/pintu.png" width="680" alt="Saat berkas diseret ke notch, pulau membuka tiga sasaran: Rak, AirDrop, dan Ke HP">
+</p>
+
+Sebagian besar HP di Indonesia memakai Android, dan AirDrop tidak sampai ke sana. Di Ziland, seret berkas ke notch, lalu lepas di **Ke HP**.
+
+<p align="center">
+  <img src="https://zikrimuhammad09.github.io/ziland-releases/assets/share.png" width="560" alt="Kartu QR untuk mengunduh laporan-skp.pdf ke HP">
+</p>
+
+Pindai QR dengan kamera HP apa pun dan berkasnya langsung terunduh. Tidak perlu aplikasi, kabel, akun, atau internet, cukup Wi-Fi yang sama. Tautannya acak, hanya bisa diunduh sekali, dan kedaluwarsa dalam lima menit. Tautan atau teks yang disalin juga bisa dijadikan QR dari menu Clipboard.
+
 ## Hadir sebentar, lalu menghilang
 
 <p align="center">
@@ -55,7 +69,13 @@ Tekan dan tahan pulau setengah detik. Empat aksi muncul tepat di bawah notch: je
   <img src="https://zikrimuhammad09.github.io/ziland-releases/assets/split.png" width="560" alt="Pulau membelah: musik di pulau utama, timer di gelembung kecil di sampingnya">
 </p>
 
-Saat lagu diputar, sampulnya muncul di sisi kiri notch dan equalizer di sisi kanan. Jika timer ikut berjalan, pulau membelah: timer mendapat gelembung kecil di sampingnya. Lirik bisa ikut berjalan baris demi baris. Sepuluh menit sebelum waktu sholat, hitung mundurnya mengambil tempat itu. Volume, AirPods yang baru tersambung, charger yang dicabut, hujan yang akan turun dalam satu jam: semuanya lewat sejenak, lalu pulau kembali tenang.
+Saat lagu diputar, sampulnya muncul di sisi kiri notch dan equalizer di sisi kanan. Jika timer ikut berjalan, pulau membelah: timer mendapat gelembung kecil di sampingnya. Usap dua jari di notch untuk volume atau ganti lagu, tanpa membuka apa pun.
+
+<p align="center">
+  <img src="https://zikrimuhammad09.github.io/ziland-releases/assets/meeting.png" width="560" alt="Mode rapat: titik merah dan lama rapat, dengan musik di gelembung samping">
+</p>
+
+Saat kamera dan mikrofon menyala bersamaan, Ziland tahu Anda sedang rapat: titik merah dan lama rapat tampil di pulau, dan notifikasi yang bisa menunggu ditahan. Setelah rapat selesai, membuka pulau langsung ke Catatan dengan judul rapatnya sudah terisi. Lirik bisa ikut berjalan baris demi baris. Sepuluh menit sebelum waktu sholat, hitung mundurnya mengambil tempat itu. Volume, AirPods yang baru tersambung, charger yang dicabut, hujan yang akan turun dalam satu jam: semuanya lewat sejenak, lalu pulau kembali tenang.
 
 ## Sebelas menu dalam satu pulau
 
@@ -102,6 +122,18 @@ Jadwal sholat dihitung langsung di Mac dengan kriteria **Kemenag RI**, termasuk 
 
 Kalender memuat **libur nasional dan cuti bersama** sesuai SKB 3 Menteri, menampilkan **weton** di setiap tanggal, dan tanggal Hijriah yang bisa digeser mengikuti hasil sidang isbat. Selama **Ramadan**, pulau menghitung mundur waktu berbuka dan Imsak, serta mengingatkan sahur.
 
+<p align="center">
+  <img src="https://zikrimuhammad09.github.io/ziland-releases/assets/dates.png" width="620" alt="Kalender dengan hitung mundur gajian">
+</p>
+
+**Hari Penting** menghitung mundur hal-hal yang Anda tunggu: gajian (lengkap dengan tanggal tua dan tanggal muda), ulang tahun, tenggat laporan, dan Idulfitri. Yang terdekat tampil di kepala pulau, misalnya "Gajian · 6 hari lagi".
+
+<p align="center">
+  <img src="https://zikrimuhammad09.github.io/ziland-releases/assets/dzikir.png" width="460" alt="Penghitung dzikir di bawah notch">
+</p>
+
+Bila diaktifkan, penghitung **dzikir** muncul beberapa menit setelah waktu sholat: 33 Subhanallah, 33 Alhamdulillah, 34 Allahu akbar, dengan getar halus di setiap klik. Ada juga **pengingat sholat Jumat** 30 menit sebelum Dzuhur.
+
 Adzan diputar dari berkas pilihan Anda sendiri dan otomatis diam saat mikrofon sedang dipakai rapat. Untuk menghentikannya, cukup arahkan kursor ke notch.
 
 ## Tampilan yang bisa Anda miliki
@@ -130,7 +162,7 @@ Saat diam, Ziland memakai **0,0% CPU** dan sekitar **19 MB** memori. Saat terbuk
 
 Satu-satunya data yang keluar dari Mac adalah koordinat kota yang dibulatkan sekitar satu kilometer (ke Open-Meteo, untuk cuaca) dan judul lagu (ke LRCLIB, untuk lirik). Tidak ada akun, analitik, atau pelacakan. Riwayat clipboard hanya ada di memori. Integrasi Claude Code hanya mendengarkan di `127.0.0.1` dan menolak permintaan yang tidak membawa token rahasia milik Mac Anda.
 
-Titik **jingga** muncul di pulau saat mikrofon sedang dipakai, dan titik **hijau** saat kamera dipakai, seperti di iPhone. Hanya status nyala atau mati yang dibaca; tidak ada yang direkam. Tekan **⌥ Space** untuk membuka pulau dari keyboard.
+Titik **jingga** muncul di pulau saat mikrofon sedang dipakai, dan titik **hijau** saat kamera dipakai, seperti di iPhone. Hanya status nyala atau mati yang dibaca; tidak ada yang direkam. Buka pulau dari keyboard dengan **⌃⌥ Space** atau kombinasi lain pilihan Anda.
 
 Pembaruan dikirim lewat [Sparkle](https://sparkle-project.org), dan setiap berkas diverifikasi dengan tanda tangan digital sebelum dipasang.
 
