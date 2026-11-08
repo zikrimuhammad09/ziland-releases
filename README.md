@@ -23,17 +23,29 @@ Di sekitar kamera MacBook ada sepotong layar hitam yang tidak pernah dipakai apa
 
 Tidak ada jendela baru, ikon Dock, atau notifikasi yang menumpuk di pojok layar. Semuanya terjadi di satu tempat yang memang sudah ada di depan mata Anda.
 
+## Pulau yang bangun
+
+<p align="center">
+  <img src="https://zikrimuhammad09.github.io/ziland-releases/assets/mascot.png" width="700" alt="Dua mata di kiri dan kanan kamera MacBook">
+</p>
+
+Saat Mac dipakai, dua mata muncul di kiri dan kanan kamera, dan kamera itu sendiri menjadi bagian dari wajahnya. Matanya berkedip dengan ritme sendiri, mengikuti kursor, sesekali melirik, dan menoleh ke kartu notifikasi. Saat lagu diputar, ia tersenyum dan mengangguk mengikuti irama. Diamkan Mac dua menit dan ia tertidur, kembali seukuran notch. Bukan hewan piksel yang ditempelkan: maskot Ziland adalah pulaunya sendiri.
+
 ## Hadir sebentar, lalu menghilang
 
 <p align="center">
   <img src="https://zikrimuhammad09.github.io/ziland-releases/assets/states.png" width="780" alt="Empat keadaan pulau: sampul lagu dan equalizer, baris lirik, HUD volume, dan kartu waktu sholat">
 </p>
 
-Saat lagu diputar, sampulnya muncul di sisi kiri notch dan equalizer di sisi kanan. Lirik bisa ikut berjalan baris demi baris. Sepuluh menit sebelum waktu sholat, hitung mundurnya mengambil tempat itu. Volume, AirPods yang baru tersambung, charger yang dicabut, hujan yang akan turun dalam satu jam: semuanya lewat sejenak, lalu pulau kembali tenang.
+<p align="center">
+  <img src="https://zikrimuhammad09.github.io/ziland-releases/assets/split.png" width="560" alt="Pulau membelah: musik di pulau utama, timer di gelembung kecil di sampingnya">
+</p>
+
+Saat lagu diputar, sampulnya muncul di sisi kiri notch dan equalizer di sisi kanan. Jika timer ikut berjalan, pulau membelah: timer mendapat gelembung kecil di sampingnya. Lirik bisa ikut berjalan baris demi baris. Sepuluh menit sebelum waktu sholat, hitung mundurnya mengambil tempat itu. Volume, AirPods yang baru tersambung, charger yang dicabut, hujan yang akan turun dalam satu jam: semuanya lewat sejenak, lalu pulau kembali tenang.
 
 ## Sebelas menu dalam satu pulau
 
-Arahkan kursor ke notch dan pulau terbuka. Geser dua jari untuk berpindah menu. Ukurannya menyesuaikan isi, jadi kalkulator tidak tampil di kotak sebesar kalender.
+Dekatkan kursor dan pulau menggembung sedikit, lalu terbuka. Sampul lagu berpindah dari samping notch ke pemutar, dan isinya muncul bertahap. Geser dua jari untuk berpindah menu; menunya ikut tertarik mengikuti jari. Ukuran pulau menyesuaikan isi, jadi kalkulator tidak tampil di kotak sebesar kalender, dan pulau terbuka langsung ke menu yang relevan dengan yang sedang berlangsung.
 
 <table>
   <tr>
@@ -49,7 +61,7 @@ Arahkan kursor ke notch dan pulau terbuka. Geser dua jari untuk berpindah menu. 
     <td><img src="https://zikrimuhammad09.github.io/ziland-releases/assets/notes.png" alt="Menu Catatan"><br><b>Catatan</b><br>Tugas singkat yang diketik langsung di pulau. Klik sekali, ketik, tekan Return.</td>
   </tr>
   <tr>
-    <td><img src="https://zikrimuhammad09.github.io/ziland-releases/assets/shelf.png" alt="Menu Rak"><br><b>Rak</b><br>Seret berkas ke notch untuk disimpan sementara, lalu seret keluar ke app lain saat dibutuhkan.</td>
+    <td><img src="https://zikrimuhammad09.github.io/ziland-releases/assets/shelf.png" alt="Menu Rak"><br><b>Rak</b><br>Seret berkas ke notch untuk disimpan sementara, lalu seret keluar ke app lain atau kirim lewat AirDrop.</td>
     <td><img src="https://zikrimuhammad09.github.io/ziland-releases/assets/clipboard.png" alt="Menu Clipboard"><br><b>Clipboard</b><br>Teks yang baru disalin, dengan ikon tautan, kode, atau angka. Isi dari password manager tidak pernah disimpan.</td>
   </tr>
   <tr>
