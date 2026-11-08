@@ -6,6 +6,33 @@
     <description>Pembaruan Ziland</description>
     <language>id</language>
     <item>
+      <title>Ziland 1.0.1</title>
+      <pubDate>Sun, 08 Nov 2026 21:11:04 GMT</pubDate>
+      <sparkle:version>37</sparkle:version>
+      <sparkle:shortVersionString>1.0.1</sparkle:shortVersionString>
+      <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
+      <description><![CDATA[
+<p>Pembaruan pertama yang dikirim lewat pembaruan otomatis.</p>
+<h3>Ditambahkan</h3>
+<ul>
+<li><b>Nuansa</b>: warna latar pulau saat terbuka dan saat menampilkan kartu. Pilihannya Malam (hitam), Hutan (hijau gelap), Lautan (biru gelap), Senja, dan Grafit. Berlaku untuk semua tema; bagian di bawah kamera tetap hitam agar menyatu dengan notch. Setiap nuansa menawarkan warna aksen yang serasi dalam satu klik.</li>
+<li>Persiapan notarisasi: tanda tangan Developer ID dengan hardened runtime (<code>SIGN_IDENTITY</code>), <code>make notarize</code>, dan entitlements.</li>
+</ul>
+<h3>Diubah</h3>
+<ul>
+<li>Teks abu-abu di pulau dibuat lebih kontras agar lebih mudah dibaca.</li>
+<li>Jarak antara isi menu dan dock kini sama di semua menu; Kalender mendapat ruang tambahan untuk bulan enam minggu.</li>
+<li>Cahaya sampul lagu diredam saat nuansa berwarna dipakai, agar warnanya tidak bercampur keruh.</li>
+</ul>
+<h3>Diperbaiki</h3>
+<ul>
+<li>Adzan tidak berhenti saat kursor diarahkan ke notch, padahal kartunya meminta begitu. Kini membuka pulau dengan kursor langsung menghentikan adzan.</li>
+<li>Sidebar Pengaturan terdorong ke tepi kiri jendela di halaman Tampilan, karena pratinjau pulau lebih lebar dari ruang yang tersedia. Pratinjau kini menyesuaikan lebar.</li>
+</ul>
+      ]]></description>
+      <enclosure url="https://github.com/zikrimuhammad09/ziland-releases/releases/download/v1.0.1/Ziland-1.0.1.zip" sparkle:edSignature="vEvSd7gfrSx5MKrMDNULFVFuJ2MTffnyptma1LbV9uADHvZGNIAYRzG+D6PcgQIqvxWIPKcAqnI1OzYq/kSSAA==" length="3556354" type="application/octet-stream"/>
+    </item>
+    <item>
       <title>Ziland 1.0.0</title>
       <pubDate>Sun, 08 Nov 2026 20:55:30 GMT</pubDate>
       <sparkle:version>33</sparkle:version>
