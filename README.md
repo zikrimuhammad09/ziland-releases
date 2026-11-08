@@ -31,6 +31,20 @@ Tidak ada jendela baru, ikon Dock, atau notifikasi yang menumpuk di pojok layar.
 
 Saat Mac dipakai, dua mata muncul di kiri dan kanan kamera, dan kamera itu sendiri menjadi bagian dari wajahnya. Matanya berkedip dengan ritme sendiri, mengikuti kursor, sesekali melirik, dan menoleh ke kartu notifikasi. Saat lagu diputar, ia tersenyum dan mengangguk mengikuti irama. Diamkan Mac dua menit dan ia tertidur, kembali seukuran notch. Bukan hewan piksel yang ditempelkan: maskot Ziland adalah pulaunya sendiri.
 
+<p align="center">
+  <img src="https://zikrimuhammad09.github.io/ziland-releases/assets/moods.png" width="700" alt="Ekspresi maskot: tersenyum dan sayu">
+</p>
+
+Ia juga berperasaan. Matanya sayu saat baterai lemah, berbinar saat charger dipasang, tersenyum saat target minum tercapai atau sesi fokus selesai, menguap saat Mac bangun, dan meregang saat sudah terlalu lama Anda duduk.
+
+### Genggam
+
+<p align="center">
+  <img src="https://zikrimuhammad09.github.io/ziland-releases/assets/quick.png" width="520" alt="Empat aksi cepat di bawah notch: putar, timer 5 menit, senyap, fokus">
+</p>
+
+Tekan dan tahan pulau setengah detik. Empat aksi muncul tepat di bawah notch: jeda musik, timer lima menit, senyap, atau mulai fokus. Pulau penuh tidak perlu dibuka.
+
 ## Hadir sebentar, lalu menghilang
 
 <p align="center">
@@ -78,6 +92,12 @@ Ada juga **Musik** untuk semua pemutar (termasuk YouTube Music di browser) dan *
   <img src="https://zikrimuhammad09.github.io/ziland-releases/assets/ramadan.png" width="660" alt="Menu Hari Ini dalam mode Ramadan dengan kartu puasa">
 </p>
 
+<p align="center">
+  <img src="https://zikrimuhammad09.github.io/ziland-releases/assets/greeting.png" width="480" alt="Sapaan saat Mac bangun: selamat pagi, sholat berikutnya dan acara pertama">
+</p>
+
+Saat Mac dibuka dari tidur, maskot menguap lalu pulau menyapa: sholat berikutnya dan acara pertama hari ini. Kartu cuaca juga memuat **kualitas udara** (US AQI) kota Anda, hal yang di Jakarta sama pentingnya dengan kemungkinan hujan.
+
 Jadwal sholat dihitung langsung di Mac dengan kriteria **Kemenag RI**, termasuk ihtiyatnya. Hasilnya dicocokkan dengan jadwal resmi Kemenag untuk Jakarta dan selisihnya paling banyak satu menit. JAKIM, MUIS, Umm al-Qura, dan metode lain juga tersedia.
 
 Kalender memuat **libur nasional dan cuti bersama** sesuai SKB 3 Menteri, menampilkan **weton** di setiap tanggal, dan tanggal Hijriah yang bisa digeser mengikuti hasil sidang isbat. Selama **Ramadan**, pulau menghitung mundur waktu berbuka dan Imsak, serta mengingatkan sahur.
@@ -96,13 +116,21 @@ Empat tema dengan karakter berbeda. **Lumen** monokrom dengan cahaya lembut dari
   <img src="https://zikrimuhammad09.github.io/ziland-releases/assets/tones.png" width="780" alt="Empat nuansa latar pulau: Hutan, Lautan, Senja, dan Grafit">
 </p>
 
-Lalu pilih **nuansa** untuk latar pulau (Malam, Hutan, Lautan, Senja, atau Grafit) dan satu dari tiga belas **warna aksen**, dari Jingga sampai Toska. Bagian di bawah kamera selalu tetap hitam, jadi pulau tetap menyatu dengan notch apa pun pilihannya.
+Lalu pilih **nuansa** untuk latar pulau (Malam, Hutan, Lautan, Senja, Grafit, atau **Langit**) dan satu dari tiga belas **warna aksen**, dari Jingga sampai Toska.
+
+<p align="center">
+  <img src="https://zikrimuhammad09.github.io/ziland-releases/assets/sky.png" width="620" alt="Nuansa Langit: latar pulau berwarna biru siang sesuai waktu hari">
+</p>
+
+**Langit** menjadikan pulau penanda waktu tanpa jam. Warnanya dihitung dari jadwal sholat hari itu: biru fajar sebelum Subuh, merah muda saat terbit, cerah di siang, jingga menjelang Maghrib, dan gelap setelah Isya. Bagian di bawah kamera selalu tetap hitam, jadi pulau tetap menyatu dengan notch apa pun pilihannya.
 
 ## Ringan, dan tahu batas
 
 Saat diam, Ziland memakai **0,0% CPU** dan sekitar **19 MB** memori. Saat terbuka, sekitar 0,1%.
 
 Satu-satunya data yang keluar dari Mac adalah koordinat kota yang dibulatkan sekitar satu kilometer (ke Open-Meteo, untuk cuaca) dan judul lagu (ke LRCLIB, untuk lirik). Tidak ada akun, analitik, atau pelacakan. Riwayat clipboard hanya ada di memori. Integrasi Claude Code hanya mendengarkan di `127.0.0.1` dan menolak permintaan yang tidak membawa token rahasia milik Mac Anda.
+
+Titik **jingga** muncul di pulau saat mikrofon sedang dipakai, dan titik **hijau** saat kamera dipakai, seperti di iPhone. Hanya status nyala atau mati yang dibaca; tidak ada yang direkam. Tekan **⌥ Space** untuk membuka pulau dari keyboard.
 
 Pembaruan dikirim lewat [Sparkle](https://sparkle-project.org), dan setiap berkas diverifikasi dengan tanda tangan digital sebelum dipasang.
 

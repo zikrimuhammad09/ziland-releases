@@ -6,6 +6,37 @@
     <description>Pembaruan Ziland</description>
     <language>id</language>
     <item>
+      <title>Ziland 1.2.0</title>
+      <pubDate>Sun, 08 Nov 2026 23:08:35 GMT</pubDate>
+      <sparkle:version>45</sparkle:version>
+      <sparkle:shortVersionString>1.2.0</sparkle:shortVersionString>
+      <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
+      <description><![CDATA[
+<p>Ziland kini berperasaan dan tahu waktu: maskotnya bereaksi pada Mac Anda, dan pulau mengikuti hari, bukan hanya jam.</p>
+<h3>Pulau yang berperasaan</h3>
+<p>Maskot bereaksi pada keadaan Mac: matanya sayu saat baterai lemah, berbinar saat pengisi daya dipasang, tersenyum saat target minum tercapai atau sesi fokus selesai, menguap saat Mac bangun, dan meregang saat waktunya istirahat. Bisa dimatikan di Pengaturan › Tampilan › Maskot.</p>
+<h3>Genggam</h3>
+<p>Tekan dan tahan pulau tertutup setengah detik, dan muncul empat aksi cepat: jeda atau putar musik, timer 5 menit, senyap, dan mulai fokus. Tanpa membuka pulau penuh.</p>
+<h3>Nuansa Langit</h3>
+<p>Latar pulau mengikuti waktu hari menurut jadwal sholat: biru fajar sebelum Subuh, merah muda saat terbit, cerah di siang, jingga menjelang Maghrib, dan gelap setelah Isya. Pilih di Pengaturan › Tampilan › Nuansa.</p>
+<h3>Lebih peka pada hari Anda</h3>
+<ul>
+<li><b>Sapaan saat Mac bangun:</b> sholat berikutnya dan acara pertama hari ini, beberapa detik setelah Mac dibuka.</li>
+<li><b>Kualitas udara</b> di kartu cuaca Hari Ini, dalam US AQI dengan warna sesuai tingkatnya.</li>
+<li><b>Regang:</b> setelah 50 menit memakai Mac tanpa jeda, pulau mengajak Anda berdiri dan meregangkan badan. Waktunya bisa diatur.</li>
+</ul>
+<h3>Privasi dan kendali</h3>
+<ul>
+<li><b>Indikator privasi:</b> titik jingga saat mikrofon digunakan, titik hijau saat kamera digunakan. Hanya status nyala atau mati yang dibaca.</li>
+<li><b>Pintasan ⌥ Space</b> membuka dan menutup pulau dari keyboard.</li>
+<li><b>Gambar di Clipboard:</b> tangkapan layar dan gambar yang disalin tampil sebagai pratinjau kecil dan bisa disalin lagi.</li>
+</ul>
+<h3>Memasang</h3>
+<p>Pengguna 1.1.0 menerima pembaruan ini secara otomatis. Untuk pemasangan baru, unduh <b>Ziland-1.2.0.dmg</b>, buka, lalu seret Ziland ke Applications. Saat pertama dibuka, klik kanan › <b>Buka</b>. Butuh macOS 14 atau lebih baru di Mac Apple Silicon.</p>
+      ]]></description>
+      <enclosure url="https://github.com/zikrimuhammad09/ziland-releases/releases/download/v1.2.0/Ziland-1.2.0.zip" sparkle:edSignature="TzTprTM/aIZD7sajjton21qNocHvN0EoIwm6ej2uzd+uavVifwKu/ElmhXTK2wAZ0ghz1HmSf0FZ/E+YDepMBA==" length="3690119" type="application/octet-stream"/>
+    </item>
+    <item>
       <title>Ziland 1.1.0</title>
       <pubDate>Sun, 08 Nov 2026 21:55:34 GMT</pubDate>
       <sparkle:version>43</sparkle:version>
