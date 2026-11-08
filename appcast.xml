@@ -5,5 +5,61 @@
     <link>https://raw.githubusercontent.com/zikrimuhammad09/ziland-releases/main/appcast.xml</link>
     <description>Pembaruan Ziland</description>
     <language>id</language>
+    <item>
+      <title>Ziland 1.0.0</title>
+      <pubDate>Sun, 08 Nov 2026 20:53:18 GMT</pubDate>
+      <sparkle:version>32</sparkle:version>
+      <sparkle:shortVersionString>1.0.0</sparkle:shortVersionString>
+      <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
+      <description><![CDATA[
+<p>Rilis publik pertama. Desain, UX, bahasa, performa, dan keamanan ditinjau ulang menyeluruh.</p>
+<h3>Ditambahkan</h3>
+<ul>
+<li><b>Empat tema dengan nama sendiri</b>:</li>
+<li><b>Lumen</b> (bawaan): kontrol monokrom, cahaya lembut dari sampul lagu, menu di dock bawah;</li>
+<li><b>Aurora</b>: cahaya warna aksen yang lebih hidup, tombol utama berwarna aksen;</li>
+<li><b>Onyx</b>: hitam pekat dan datar tanpa cahaya;</li>
+<li><b>Vivid</b>: menu di bagian atas, huruf membulat, tombol berwarna penuh.</li>
+</ul>
+<p>Pilihan lama &quot;Modern 2026&quot; dan &quot;Klasik&quot; otomatis menjadi Lumen dan Vivid.</p>
+<ul>
+<li><b>13 warna aksen</b> bernama khas Nusantara: Jingga, Mawar, Delima, Kunyit, Mentari, Pandan, Mint, Toska, Langit, Samudra, Lila, Anggur, Perak. Ada juga pilihan <b>Ikuti warna sampul lagu</b>.</li>
+<li><b>Ukuran pulau mengikuti isinya.</b> Setiap menu meminta tinggi yang dibutuhkan, dan pulau berubah ukuran dengan animasi spring saat berpindah menu.</li>
+<li><b>Menu Minum</b>: target harian, grafik 7 hari, dan pengingat pada jam aktif.</li>
+<li><b>Menu Catatan</b>: tugas dan catatan singkat yang diketik langsung di pulau.</li>
+<li><b>Timer hitung mundur</b> di menu Fokus, di samping Pomodoro: pilihan 3, 5, 10, dan 30 menit, tombol tambah 1 menit, dan notifikasi saat waktu habis. Timer tidak menyalakan Jangan Ganggu.</li>
+<li><b>Menu Cermin</b>: kamera sebagai cermin sebelum rapat. Kamera hanya menyala selama menu terbuka, dan izin diminta lewat tombol, tidak otomatis.</li>
+<li><b>Bahasa Inggris.</b> Pilih di Pengaturan › Umum › Bahasa (bawaannya Bahasa Indonesia, apa pun bahasa macOS). Format jam dan tanggal ikut menyesuaikan.</li>
+<li><b>Pembaruan otomatis</b> lewat Sparkle, dari repositori publik <code>ziland-releases</code>. Setiap pembaruan diverifikasi dengan tanda tangan EdDSA sebelum dipasang. Tersedia <b>Periksa Pembaruan…</b> di menu Ziland dan di Pengaturan › Tentang Ziland.</li>
+<li><b>Metode perhitungan sholat</b>: Kemenag RI (bawaan), JAKIM, MUIS, Muslim World League, Umm al-Qura, ISNA, dan Mesir, plus Ashar mazhab Hanafi.</li>
+<li>Ikon aplikasi sendiri dan paket <b>DMG</b> untuk instalasi.</li>
+<li><code>SECURITY.md</code>: data yang keluar dari Mac, izin yang dipakai, dan cara kerja server hook.</li>
+</ul>
+<h3>Diubah</h3>
+<ul>
+<li><b>Pengaturan didesain ulang</b>: ikon berwarna di sidebar seperti Pengaturan Sistem, setiap opsi disertai penjelasan singkat, catatan rata kiri, pratinjau tema bergambar, dan bagian Pembaruan serta Ucapan terima kasih di Tentang Ziland.</li>
+<li><b>Bahasa antarmuka lebih formal dan konsisten</b> (memakai &quot;Anda&quot;, istilah macOS resmi seperti Aksesibilitas, Pintasan, dan berkas).</li>
+<li>Jadwal sholat di menu Hari Ini kini berupa enam chip, dengan garis progres menuju sholat berikutnya.</li>
+<li>Tab bar Vivid menyesuaikan lebar ikon supaya sebelas menu tetap muat.</li>
+<li>Keyboard dilepas setiap kali pindah menu.</li>
+</ul>
+<h3>Keamanan</h3>
+<ul>
+<li>Server hook Claude Code hanya mendengarkan di <code>127.0.0.1</code> dan mewajibkan token acak per instalasi. Permintaan bergaya browser ditolak.</li>
+<li>Instalasi hook lama terdeteksi otomatis; Pengaturan › Integrasi menampilkan tombol <b>Perbarui</b>.</li>
+</ul>
+<h3>Diperbaiki</h3>
+<ul>
+<li>Nama berkas tanpa spasi di Rak terpotong di tengah kata.</li>
+<li>Kolom pencarian kota di Pengaturan menampilkan petunjuk sebagai label terpisah.</li>
+<li>Build bebas peringatan compiler.</li>
+</ul>
+<h3>Performa</h3>
+<p>Diukur di Mac pengembang: 0,0% CPU dan sekitar 19 MB memori saat diam, 0,1% CPU dan 28 MB saat pulau terbuka.</p>
+<h3>Instalasi</h3>
+<p>Unduh <code>Ziland-1.0.0.dmg</code>, buka, lalu seret <b>Ziland</b> ke <b>Applications</b>. Ziland belum dinotarisasi Apple, jadi saat pertama dibuka gunakan klik kanan › <b>Buka</b> (atau Pengaturan Sistem › Privasi &amp; Keamanan › <b>Tetap Buka</b>). Setelah itu Ziland memperbarui dirinya sendiri. Butuh macOS 14+ dan Mac Apple Silicon.</p>
+      ]]></description>
+      <enclosure url="https://github.com/zikrimuhammad09/ziland-releases/releases/download/v1.0.0/Ziland-1.0.0.zip" sparkle:edSignature="sXpFWOXyeNc6hBVcpI37+/nU79awR+yrRteaS7g8q9jLcb3S0NmCE4OHc8MfHLSxi0hQTwk0hhIP/pNzFLDKBg==" length="3535100" type="application/octet-stream"/>
+    </item>
   </channel>
 </rss>
