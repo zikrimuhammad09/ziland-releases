@@ -40,12 +40,14 @@ Ia juga berperasaan. Matanya sayu saat baterai lemah, berbinar saat charger dipa
 ### Genggam
 
 <p align="center">
-  <img src="https://zikrimuhammad09.github.io/ziland-releases/assets/quick.png" width="520" alt="Empat aksi cepat di bawah notch: putar, timer 5 menit, senyap, fokus">
+  <img src="https://zikrimuhammad09.github.io/ziland-releases/assets/quick.png" width="620" alt="Aksi cepat di bawah notch: putar, timer 5 menit, senyap, fokus, dan empat pintasan pilihan pengguna">
 </p>
 
-Tekan dan tahan pulau setengah detik. Empat aksi muncul tepat di bawah notch: jeda musik, timer lima menit, senyap, atau mulai fokus. Pulau penuh tidak perlu dibuka.
+Tekan dan tahan pulau setengah detik. Aksi cepat muncul tepat di bawah notch: jeda musik, timer lima menit, senyap, atau mulai fokus. Di bawahnya, hingga empat pintasan Anda sendiri dari aplikasi Pintasan, misalnya kirim laporan harian atau sambungkan VPN kantor. Pulau penuh tidak perlu dibuka.
 
-## Ke HP mana pun, lewat QR
+Ingin pulau bereaksi pada alur kerja Anda? Tautan `ziland://` dari Pintasan, Raycast, Alfred, atau skrip dapat menampilkan kartu saat build selesai, membuka menu tertentu, atau memulai timer. Pulau juga bisa dipakai sepenuhnya dari keyboard: buka dengan pintasan, berpindah menu dengan ← →, tutup dengan Esc.
+
+## Ke HP dan dari HP, lewat QR
 
 <p align="center">
   <img src="https://zikrimuhammad09.github.io/ziland-releases/assets/pintu.png" width="680" alt="Saat berkas diseret ke notch, pulau membuka tiga sasaran: Rak, AirDrop, dan Ke HP">
@@ -58,6 +60,12 @@ Sebagian besar HP di Indonesia memakai Android, dan AirDrop tidak sampai ke sana
 </p>
 
 Pindai QR dengan kamera HP apa pun dan berkasnya langsung terunduh. Tidak perlu aplikasi, kabel, akun, atau internet, cukup Wi-Fi yang sama. Tautannya acak, hanya bisa diunduh sekali, dan kedaluwarsa dalam lima menit. Tautan atau teks yang disalin juga bisa dijadikan QR dari menu Clipboard.
+
+<p align="center">
+  <img src="https://zikrimuhammad09.github.io/ziland-releases/assets/receive.png" width="560" alt="Kartu Dari HP: QR untuk mengirim dari HP, dengan foto yang sedang diterima">
+</p>
+
+Arah sebaliknya juga bisa. Klik **Dari HP** di Rak, pindai QR-nya, lalu kirim foto, berkas, atau teks dari HP ke Mac. Foto rapat, dokumen hasil pindaian, atau tautan yang terbuka di HP langsung sampai di Rak, tanpa mengirimnya dulu ke diri sendiri lewat chat.
 
 ## Hadir sebentar, lalu menghilang
 
@@ -72,10 +80,10 @@ Pindai QR dengan kamera HP apa pun dan berkasnya langsung terunduh. Tidak perlu 
 Saat lagu diputar, sampulnya muncul di sisi kiri notch dan equalizer di sisi kanan. Jika timer ikut berjalan, pulau membelah: timer mendapat gelembung kecil di sampingnya. Usap dua jari di notch untuk volume atau ganti lagu, tanpa membuka apa pun.
 
 <p align="center">
-  <img src="https://zikrimuhammad09.github.io/ziland-releases/assets/meeting.png" width="560" alt="Mode rapat: titik merah dan lama rapat, dengan musik di gelembung samping">
+  <img src="https://zikrimuhammad09.github.io/ziland-releases/assets/meeting.png" width="560" alt="Mode rapat: ikon rapat dan lamanya, dengan musik di gelembung samping">
 </p>
 
-Saat kamera dan mikrofon menyala bersamaan, Ziland tahu Anda sedang rapat: titik merah dan lama rapat tampil di pulau, dan notifikasi yang bisa menunggu ditahan. Setelah rapat selesai, membuka pulau langsung ke Catatan dengan judul rapatnya sudah terisi. Lirik bisa ikut berjalan baris demi baris. Sepuluh menit sebelum waktu sholat, hitung mundurnya mengambil tempat itu. Volume, AirPods yang baru tersambung, charger yang dicabut, hujan yang akan turun dalam satu jam: semuanya lewat sejenak, lalu pulau kembali tenang.
+Saat kamera dan mikrofon menyala bersamaan, Ziland tahu Anda sedang rapat: lama rapat tampil di pulau, dan notifikasi yang bisa menunggu ditahan. Setelah rapat selesai, membuka pulau langsung ke Catatan dengan judul rapatnya sudah terisi. Lirik bisa ikut berjalan baris demi baris. Sepuluh menit sebelum waktu sholat, hitung mundurnya mengambil tempat itu. Volume, AirPods yang baru tersambung, charger yang dicabut, hujan yang akan turun dalam satu jam: semuanya lewat sejenak, lalu pulau kembali tenang.
 
 ## Sebelas menu dalam satu pulau
 
@@ -95,7 +103,7 @@ Dekatkan kursor dan pulau menggembung sedikit, lalu terbuka. Sampul lagu berpind
     <td><img src="https://zikrimuhammad09.github.io/ziland-releases/assets/notes.png" alt="Menu Catatan"><br><b>Catatan</b><br>Tugas singkat yang diketik langsung di pulau. Klik sekali, ketik, tekan Return.</td>
   </tr>
   <tr>
-    <td><img src="https://zikrimuhammad09.github.io/ziland-releases/assets/shelf.png" alt="Menu Rak"><br><b>Rak</b><br>Seret berkas ke notch untuk disimpan sementara, lalu seret keluar ke app lain atau kirim lewat AirDrop.</td>
+    <td><img src="https://zikrimuhammad09.github.io/ziland-releases/assets/shelf.png" alt="Menu Rak"><br><b>Rak</b><br>Seret berkas ke notch untuk disimpan sementara, lalu seret keluar ke app lain, kirim lewat AirDrop, atau tukar dengan HP lewat QR.</td>
     <td><img src="https://zikrimuhammad09.github.io/ziland-releases/assets/clipboard.png" alt="Menu Clipboard"><br><b>Clipboard</b><br>Teks yang baru disalin, dengan ikon tautan, kode, atau angka. Isi dari password manager tidak pernah disimpan.</td>
   </tr>
   <tr>
@@ -160,7 +168,7 @@ Lalu pilih **nuansa** untuk latar pulau (Malam, Hutan, Lautan, Senja, Grafit, at
 
 Saat diam, Ziland memakai **0,0% CPU** dan sekitar **19 MB** memori. Saat terbuka, sekitar 0,1%.
 
-Satu-satunya data yang keluar dari Mac adalah koordinat kota yang dibulatkan sekitar satu kilometer (ke Open-Meteo, untuk cuaca) dan judul lagu (ke LRCLIB, untuk lirik). Tidak ada akun, analitik, atau pelacakan. Riwayat clipboard hanya ada di memori. Integrasi Claude Code hanya mendengarkan di `127.0.0.1` dan menolak permintaan yang tidak membawa token rahasia milik Mac Anda.
+Ke HP dan Dari HP hanya bekerja di jaringan lokal, dengan tautan acak yang berhenti saat kartunya ditutup. Satu-satunya data yang keluar dari Mac ke internet adalah koordinat kota yang dibulatkan sekitar satu kilometer (ke Open-Meteo, untuk cuaca) dan judul lagu (ke LRCLIB, untuk lirik). Tidak ada akun, analitik, atau pelacakan. Riwayat clipboard hanya ada di memori. Integrasi Claude Code hanya mendengarkan di `127.0.0.1` dan menolak permintaan yang tidak membawa token rahasia milik Mac Anda.
 
 Titik **jingga** muncul di pulau saat mikrofon sedang dipakai, dan titik **hijau** saat kamera dipakai, seperti di iPhone. Hanya status nyala atau mati yang dibaca; tidak ada yang direkam. Buka pulau dari keyboard dengan **⌃⌥ Space** atau kombinasi lain pilihan Anda.
 
@@ -196,7 +204,7 @@ Tidak. Repositori ini hanya berisi berkas rilis dan feed pembaruan.
 
 <br>
 
-**Ziland in English.** The black strip around your MacBook's camera has never done anything. Ziland turns it into a small, living island: it widens for what matters (the song playing, a countdown to the next prayer, a volume change), opens when you point at it, and melts back into the bezel when it's done. Eleven menus live inside, from Today and Calendar to Focus, Water, Notes, a file Shelf, Clipboard, a camera Mirror and Claude Code. Prayer times follow Indonesia's Kemenag criteria, the calendar knows Indonesian public holidays, and four themes with five background tones let you make it yours. It idles at 0.0% CPU, sends no analytics, and updates itself with signed releases. Download the DMG from [Releases](https://github.com/zikrimuhammad09/ziland-releases/releases/latest), drag it to Applications, and right-click › Open on first launch. Requires macOS 14+ on Apple Silicon.
+**Ziland in English.** The black strip around your MacBook's camera has never done anything. Ziland turns it into a small, living island: it widens for what matters (the song playing, a countdown to the next prayer, a volume change), opens when you point at it, and melts back into the bezel when it's done. Eleven menus live inside, from Today and Calendar to Focus, Water, Notes, a file Shelf, Clipboard, a camera Mirror and Claude Code. Send files to any phone by QR, or receive photos, files and text from one, over your own Wi-Fi. Prayer times follow Indonesia's Kemenag criteria, the calendar knows Indonesian public holidays, and four themes with five background tones let you make it yours. It idles at 0.0% CPU, sends no analytics, and updates itself with signed releases. Download the DMG from [Releases](https://github.com/zikrimuhammad09/ziland-releases/releases/latest), drag it to Applications, and right-click › Open on first launch. Requires macOS 14+ on Apple Silicon.
 
 <br>
 

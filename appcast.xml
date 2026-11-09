@@ -6,6 +6,45 @@
     <description>Pembaruan Ziland</description>
     <language>id</language>
     <item>
+      <title>Ziland 1.4.0</title>
+      <pubDate>Mon, 09 Nov 2026 00:42:31 GMT</pubDate>
+      <sparkle:version>59</sparkle:version>
+      <sparkle:shortVersionString>1.4.0</sparkle:shortVersionString>
+      <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
+      <description><![CDATA[
+<p>Pulau yang dua arah: HP kini bisa mengirim balik ke Mac, pintasan Anda ada dalam genggaman, dan pulau bisa dipakai tanpa menyentuh trackpad.</p>
+<h3>Dari HP</h3>
+<p>Kebalikan Ke HP. Buka Rak, klik <b>Dari HP</b>, lalu pindai QR dengan kamera HP apa pun di Wi-Fi yang sama. Dari halaman kecil yang terbuka di HP, kirim foto, berkas, atau teks ke Mac. Berkas masuk ke Rak dan ke Unduhan › Dari HP, sedangkan teks langsung tersalin di Mac. Tanpa aplikasi, akun, atau cloud. Halaman itu berhenti bekerja saat kartu ditutup atau setelah 10 menit tanpa kiriman.</p>
+<h3>Pintasan Anda, dari pulau</h3>
+<ul>
+<li><b>Pintasan di Genggam:</b> pilih hingga empat pintasan dari aplikasi Pintasan, lalu jalankan dengan menahan pulau. Atur di Pengaturan › Umum.</li>
+<li><b>Tautan <code>ziland://</code>:</b> aplikasi Pintasan, Raycast, Alfred, atau skrip dapat menampilkan kartu di pulau (misalnya saat build selesai), membuka menu, memulai fokus atau timer, dan membuka Dari HP. Contohnya ada di Pengaturan › Integrasi.</li>
+<li><b>Pulau lewat keyboard:</b> setelah dibuka dengan pintasan keyboard, tekan ← → untuk berpindah menu, ⌘1–⌘9 untuk langsung ke menu, Spasi untuk memutar atau menjeda lagu, dan Esc untuk menutup. Tombol ikon kini dibacakan VoiceOver.</li>
+</ul>
+<h3>Lebih rapi</h3>
+<ul>
+<li>Kepala Rak lebih lega, dengan tombol Ke HP, AirDrop, dan Dari HP yang jelas.</li>
+<li>Tombol suara fokus menyebut suaranya: Hujan, Derau dalam, Derau lembut, atau Tanpa suara.</li>
+<li>Cuaca per jam tidak lagi mencampur suhu dan peluang hujan dalam satu baris.</li>
+<li>Kapsul rapat memakai ikon yang jelas, kapsul unduhan menyebut nama berkasnya, dan dzikir menampilkan tahapnya.</li>
+<li>Pengaturan lebih tenang, dan panduan awal memperkenalkan fitur-fitur baru.</li>
+</ul>
+<h3>Diperbaiki</h3>
+<ul>
+<li>Cermin tidak lagi bisa menyalakan kamera saat menunya sudah tertutup.</li>
+<li>Total minum kemarin tidak lagi hilang bila Mac dimatikan semalam.</li>
+<li>Unduhan Ke HP yang sedang berjalan tidak lagi terputus saat tautannya kedaluwarsa.</li>
+<li>Pengingat Regang tidak lagi muncul setiap pagi setelah Mac tidur semalaman.</li>
+<li>Suara fokus berhenti saat rapat atau adzan dimulai, dan kembali setelah AirPods tersambung.</li>
+<li>Jadwal sholat tetap berganti hari meski zona waktu Mac berbeda dari kota yang dipilih.</li>
+<li>Serta beberapa perbaikan kecil lain, termasuk &quot;20%%&quot; yang kini tertulis &quot;20%&quot;.</li>
+</ul>
+<h3>Memasang</h3>
+<p>Pengguna 1.3.0 menerima pembaruan ini secara otomatis. Untuk pemasangan baru, unduh <b>Ziland-1.4.0.dmg</b>, buka, lalu seret Ziland ke Applications. Saat pertama dibuka, klik kanan › <b>Buka</b>. Butuh macOS 14 atau lebih baru di Mac Apple Silicon.</p>
+      ]]></description>
+      <enclosure url="https://github.com/zikrimuhammad09/ziland-releases/releases/download/v1.4.0/Ziland-1.4.0.zip" sparkle:edSignature="4/okUF4WCYUZjk3aUD0c03QQ24Wk0v33vTwAIuLFUmAeurvUuly1joKz0kmT4vmkhvW0aB0pIJYKCzh05YVxAg==" length="4105983" type="application/octet-stream"/>
+    </item>
+    <item>
       <title>Ziland 1.3.0</title>
       <pubDate>Sun, 08 Nov 2026 23:56:53 GMT</pubDate>
       <sparkle:version>50</sparkle:version>
