@@ -6,6 +6,23 @@
     <description>Pembaruan Ziland</description>
     <language>id</language>
     <item>
+      <title>Ziland 1.4.4</title>
+      <pubDate>Mon, 09 Nov 2026 02:34:11 GMT</pubDate>
+      <sparkle:version>68</sparkle:version>
+      <sparkle:shortVersionString>1.4.4</sparkle:shortVersionString>
+      <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
+      <description><![CDATA[
+<p>Perbaikan tampilan di menu Musik.</p>
+<h3>Diperbaiki</h3>
+<ul>
+<li>Di menu Musik, sampul bisa bergeser ke kanan dan menutupi judul yang pendek, misalnya &quot;Netflix&quot; yang diputar di Chrome, sehingga judul tidak terlihat. Sampul kini selalu berada tepat di tempatnya dan judul tampil utuh.</li>
+</ul>
+<h3>Memasang</h3>
+<p>Pengguna 1.4.x menerima pembaruan ini secara otomatis. Untuk pemasangan baru, unduh <b>Ziland-1.4.4.dmg</b>, buka, lalu seret Ziland ke Applications. Saat pertama dibuka, klik kanan › <b>Buka</b>. Butuh macOS 14 atau lebih baru di Mac Apple Silicon.</p>
+      ]]></description>
+      <enclosure url="https://github.com/zikrimuhammad09/ziland-releases/releases/download/v1.4.4/Ziland-1.4.4.zip" sparkle:edSignature="ZTQ5yjybv+4pZ/asEDGPkglivFLSDsfsIVjO+cvfYSXu4QYxSZvMofvP4be5nP/IoVKAj5jicqZWg2GeejUsDw==" length="4111144" type="application/octet-stream"/>
+    </item>
+    <item>
       <title>Ziland 1.4.3</title>
       <pubDate>Mon, 09 Nov 2026 02:24:57 GMT</pubDate>
       <sparkle:version>66</sparkle:version>
