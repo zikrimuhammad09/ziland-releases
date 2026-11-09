@@ -6,6 +6,24 @@
     <description>Pembaruan Ziland</description>
     <language>id</language>
     <item>
+      <title>Ziland 1.4.3</title>
+      <pubDate>Mon, 09 Nov 2026 02:24:57 GMT</pubDate>
+      <sparkle:version>66</sparkle:version>
+      <sparkle:shortVersionString>1.4.3</sparkle:shortVersionString>
+      <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
+      <description><![CDATA[
+<p>Perbaikan kecil untuk menu Fokus.</p>
+<h3>Diperbaiki</h3>
+<ul>
+<li>Tombol suara fokus di menu Fokus terpotong menjadi &quot;Tanpa su…&quot;. Labelnya kini <b>Hening</b>, sehingga tampil utuh di samping tombol Mulai dan Ulang.</li>
+<li>Terjemahan bahasa Inggris untuk pesan saat unduhan Ke HP terputus.</li>
+</ul>
+<h3>Memasang</h3>
+<p>Pengguna 1.4.x menerima pembaruan ini secara otomatis. Untuk pemasangan baru, unduh <b>Ziland-1.4.3.dmg</b>, buka, lalu seret Ziland ke Applications. Saat pertama dibuka, klik kanan › <b>Buka</b>. Butuh macOS 14 atau lebih baru di Mac Apple Silicon.</p>
+      ]]></description>
+      <enclosure url="https://github.com/zikrimuhammad09/ziland-releases/releases/download/v1.4.3/Ziland-1.4.3.zip" sparkle:edSignature="6X5x52DfA3s4Wfr2yuzCpBDptsJgO8wm5TxCDfpHB9ftH9yKcCVs20u+ccQYBAZg/kC3DoOZWPd7dMncDXlpBA==" length="4106496" type="application/octet-stream"/>
+    </item>
+    <item>
       <title>Ziland 1.4.2</title>
       <pubDate>Mon, 09 Nov 2026 00:59:31 GMT</pubDate>
       <sparkle:version>63</sparkle:version>
