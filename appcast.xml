@@ -6,6 +6,23 @@
     <description>Pembaruan Ziland</description>
     <language>id</language>
     <item>
+      <title>Ziland 1.4.1</title>
+      <pubDate>Mon, 09 Nov 2026 00:53:50 GMT</pubDate>
+      <sparkle:version>61</sparkle:version>
+      <sparkle:shortVersionString>1.4.1</sparkle:shortVersionString>
+      <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
+      <description><![CDATA[
+<p>Perbaikan kecil untuk pulau lewat keyboard.</p>
+<h3>Diperbaiki</h3>
+<ul>
+<li>Setelah pulau dibuka dengan pintasan keyboard, tombol ← → dan ⌘1–⌘9 hanya berfungsi sekali, karena berpindah menu melepas fokus keyboard. Kini keyboard tetap di pulau sampai pulau ditutup, sehingga Anda bisa berpindah menu berkali-kali.</li>
+</ul>
+<h3>Memasang</h3>
+<p>Pengguna 1.4.0 menerima pembaruan ini secara otomatis. Untuk pemasangan baru, unduh <b>Ziland-1.4.1.dmg</b>, buka, lalu seret Ziland ke Applications. Saat pertama dibuka, klik kanan › <b>Buka</b>. Butuh macOS 14 atau lebih baru di Mac Apple Silicon.</p>
+      ]]></description>
+      <enclosure url="https://github.com/zikrimuhammad09/ziland-releases/releases/download/v1.4.1/Ziland-1.4.1.zip" sparkle:edSignature="a4FK58jjTDRXSYJXLS2t74qIfjjSKnK488VY/4ihkIPX2Jsgr0iptdXy4TNO4uf0mv0X+bDEzJt1mwSPPb/wDw==" length="4106134" type="application/octet-stream"/>
+    </item>
+    <item>
       <title>Ziland 1.4.0</title>
       <pubDate>Mon, 09 Nov 2026 00:42:31 GMT</pubDate>
       <sparkle:version>59</sparkle:version>
