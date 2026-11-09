@@ -6,6 +6,23 @@
     <description>Pembaruan Ziland</description>
     <language>id</language>
     <item>
+      <title>Ziland 1.4.5</title>
+      <pubDate>Mon, 09 Nov 2026 03:15:25 GMT</pubDate>
+      <sparkle:version>70</sparkle:version>
+      <sparkle:shortVersionString>1.4.5</sparkle:shortVersionString>
+      <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
+      <description><![CDATA[
+<p>Perbaikan tampilan di kepala pulau.</p>
+<h3>Diperbaiki</h3>
+<ul>
+<li>Saat volume diubah ketika pulau sedang terbuka, suhu di kepala pulau terpecah menjadi dua baris dan persentase baterai hilang. Kini pil volume menggantikan cuaca dan baterai sejenak, lalu keduanya kembali seperti semula.</li>
+</ul>
+<h3>Memasang</h3>
+<p>Pengguna 1.4.x menerima pembaruan ini secara otomatis. Untuk pemasangan baru, unduh <b>Ziland-1.4.5.dmg</b>, buka, lalu seret Ziland ke Applications. Saat pertama dibuka, klik kanan › <b>Buka</b>. Butuh macOS 14 atau lebih baru di Mac Apple Silicon.</p>
+      ]]></description>
+      <enclosure url="https://github.com/zikrimuhammad09/ziland-releases/releases/download/v1.4.5/Ziland-1.4.5.zip" sparkle:edSignature="wkzFef4/Cuix1RqvOedBistcYUef7z/CXpiXkTsoYX7pElGl6Ie0Lc+QFt9xRI5YEBg2WiWyzvFu8pvWuJgOCg==" length="4112333" type="application/octet-stream"/>
+    </item>
+    <item>
       <title>Ziland 1.4.4</title>
       <pubDate>Mon, 09 Nov 2026 02:34:11 GMT</pubDate>
       <sparkle:version>68</sparkle:version>
